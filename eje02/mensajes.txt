@@ -1,0 +1,50 @@
+[
+  {
+    "emisor": "diego.duran@gmail.com",
+    "fechaHora": "2021-11-04T18:56:03.496Z",
+    "texto": "mensaje1",
+    "id": 1
+  },
+  {
+    "emisor": "diego.duran@gmail.com",
+    "fechaHora": "2021-11-04T18:56:08.991Z",
+    "texto": "mensaje 2",
+    "id": 2
+  },
+  {
+    "emisor": "matias@gmail.com",
+    "fechaHora": "2021-11-04T18:57:26.267Z",
+    "texto": "hola diego!",
+    "id": 3
+  },
+  {
+    "emisor": "diego.duran@gmail.com",
+    "fechaHora": "2021-11-04T18:57:33.523Z",
+    "texto": "que tal tute!",
+    "id": 4
+  },
+  {
+    "emisor": "matias@gmail.com",
+    "fechaHora": "2021-11-04T18:58:00.954Z",
+    "texto": "todo OK!",
+    "id": 5
+  },
+  {
+    "emisor": "diego@gmail.com",
+    "fechaHora": "2021-11-04T18:59:04.171Z",
+    "texto": "ahora como diego",
+    "id": 6
+  },
+  {
+    "emisor": "teo@gmail.com",
+    "fechaHora": "2021-11-04T19:00:19.413Z",
+    "texto": "Que onda perros",
+    "id": 7
+  },
+  {
+    "emisor": "matias@gmail.com",
+    "fechaHora": "2021-11-04T19:06:35.921Z",
+    "texto": "ultimo",
+    "id": 8
+  }
+]
